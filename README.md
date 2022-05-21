@@ -1,1 +1,2 @@
 # odin-recipes
+This is a repository contains the most popular and also quintessential dish of different countries - including Indians and Vietnam. You can find the full recipes in the recipes folder/directory along with a descriptive images and ingredients needed to make the dish yourself.
